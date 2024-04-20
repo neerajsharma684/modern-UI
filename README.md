@@ -36,12 +36,10 @@ Follow these steps to download and run **Modern UI** on your local machine:
 3. **Install dependencies:**
 
    ```bash
-   npm install
-   
-or
-   
+   npm install```
+   or
    ```bash
-   yarn install
+   yarn install```
 
 4. **Start the development server:**
 
