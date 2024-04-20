@@ -64,7 +64,14 @@ To deploy your website to GitHub Pages, follow these steps:
    ```json
    "homepage": "https://<username>.github.io/<repository-name>"
 
-2. **Build your project:**
+2. **Add the following scripts to the scripts section:**
+   ```json
+   "scripts": {
+   "predeploy": "npm run build",
+   "deploy": "gh-pages -d build"
+   }
+   ```
+3. **Build your project:**
 
    ```bash
    npm run build
@@ -75,7 +82,10 @@ To deploy your website to GitHub Pages, follow these steps:
    yarn build
    ```
 
-3. **Deploy to GitHub Pages:**
+   After that commit and push the files into git and go to the next step.
+
+   
+5. **Deploy to GitHub Pages:**
 
    ```bash
    npm run deploy
