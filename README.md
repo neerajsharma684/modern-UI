@@ -27,3 +27,54 @@ Follow these steps to download and run **Modern UI** on your local machine:
 
    ```bash
    git clone https://github.com/neerajsharma684/modern-ui.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd modern-ui
+
+3. **Install dependencies:**
+
+   ```bash
+   npm install
+   or
+   ```bash
+   yarn install
+
+4. **Start the development server:**
+
+   ```bash
+   npm start
+   or
+   ```bash
+   yarn start
+   
+5. Open your browser and navigate to http://localhost:3000 to view the website.
+
+## Deployment
+To deploy your website to GitHub Pages, follow these steps:
+1. **Update the "homepage" field in package.json with your GitHub Pages URL:**
+
+   ```json
+   "homepage": "https://<username>.github.io/<repository-name>"
+
+2. **Build your project:**
+
+   ```bash
+   npm run build
+   or
+   ```bash
+   yarn build
+
+3. **Deploy to GitHub Pages:**
+
+   ```bash
+   npm run deploy
+   or
+   ```bash
+   yarn deploy
+
+Your website will be live at https://<username>.github.io/<repository-name>.
+
+### Support and Feedback
+If you have any questions, feedback, or issues, please don't hesitate to open an issue. Your feedback is highly appreciated and will help improve the project.
