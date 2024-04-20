@@ -37,7 +37,7 @@ Follow these steps to download and run **Modern UI** on your local machine:
 
    ```bash
    npm install
-
+   ```
    or
    
    ```bash
