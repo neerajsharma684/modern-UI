@@ -37,7 +37,9 @@ Follow these steps to download and run **Modern UI** on your local machine:
 
    ```bash
    npm install
+   
    or
+   
    ```bash
    yarn install
 
@@ -45,7 +47,9 @@ Follow these steps to download and run **Modern UI** on your local machine:
 
    ```bash
    npm start
+   
    or
+   
    ```bash
    yarn start
    
@@ -62,7 +66,9 @@ To deploy your website to GitHub Pages, follow these steps:
 
    ```bash
    npm run build
+   
    or
+   
    ```bash
    yarn build
 
@@ -70,7 +76,9 @@ To deploy your website to GitHub Pages, follow these steps:
 
    ```bash
    npm run deploy
+   
    or
+   
    ```bash
    yarn deploy
 
