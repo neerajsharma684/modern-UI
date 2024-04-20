@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/modern-ui/static/css/main.7ab84dbd.css",
+    "main.js": "/modern-ui/static/js/main.80c33435.js",
+    "static/media/ai.png": "/modern-ui/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/modern-ui/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/blog01.png": "/modern-ui/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/modern-ui/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/modern-ui/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/modern-ui/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/modern-ui/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/logo.png": "/modern-ui/static/media/logo.7e1a6cd81e4666189581.png",
+    "static/media/people.png": "/modern-ui/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/modern-ui/index.html",
+    "main.7ab84dbd.css.map": "/modern-ui/static/css/main.7ab84dbd.css.map",
+    "main.80c33435.js.map": "/modern-ui/static/js/main.80c33435.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab84dbd.css",
+    "static/js/main.80c33435.js"
+  ]
+}
