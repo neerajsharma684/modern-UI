@@ -42,16 +42,18 @@ Follow these steps to download and run **Modern UI** on your local machine:
    
    ```bash
    yarn install
+   ```
 
 4. **Start the development server:**
 
    ```bash
    npm start
-   
+   ```
    or
    
    ```bash
    yarn start
+   ```
    
 5. Open your browser and navigate to http://localhost:3000 to view the website.
 
@@ -66,21 +68,23 @@ To deploy your website to GitHub Pages, follow these steps:
 
    ```bash
    npm run build
-   
+   ```
    or
    
    ```bash
    yarn build
+   ```
 
 3. **Deploy to GitHub Pages:**
 
    ```bash
    npm run deploy
-   
+   ```
    or
    
    ```bash
    yarn deploy
+   ```
 
 Your website will be live at https://<username>.github.io/<repository-name>.
 
